@@ -1,0 +1,26 @@
+MultiSeat Gaming guide
+if you ever wanted to do split screen coop but the game does not support it here you go thanks to reddit user u/dardyfella
+I tried to extend this to having one xserver per monitor if you have multi monitor but couldn't get that working
+https://www.reddit.com/r/archlinux/comments/1cxhqj/multiseat_gaming_guide/
+ 
+ good page on optimizing  arch and arch based distro for gaming
+ https://wiki.archlinux.org/index.php/Gaming
+ 
+ custom kernels, custom proton, latest NVIDIA drivers and a lot more by Tk-Glitch
+ https://github.com/Tk-Glitch/PKGBUILDS
+ 
+ https://aur.archlinux.org/packages/gamehub/
+ 
+ https://aur.archlinux.org/packages/itch/
+ 
+ for corsair devices
+ https://github.com/ckb-next/ckb-next
+ 
+ sidetone control for many headsets including logitech and corsair
+ https://github.com/Sapd/HeadsetControl
+ 
+ razer stuff
+ https://openrazer.github.io/
+ 
+ https://github.com/CorruptComputer/ProtonDB-Tags
+ script to Pull ratings from ProtonDB and import them into your Steam library as tags.by  CorruptComputer
