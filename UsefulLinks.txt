@@ -24,3 +24,7 @@ https://www.reddit.com/r/archlinux/comments/1cxhqj/multiseat_gaming_guide/
  
  https://github.com/CorruptComputer/ProtonDB-Tags
  script to Pull ratings from ProtonDB and import them into your Steam library as tags.by  CorruptComputer
+
+
+https://github.com/flightlessmango/dxvk/
+dxvk hud with tweaks like bigger fonts and stuff by flightlessmango
