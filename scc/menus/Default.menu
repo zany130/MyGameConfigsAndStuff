@@ -1,0 +1,56 @@
+[{
+    "name": "Recent profiles", 
+    "separator": true
+}, {
+    "generator": "recent", 
+    "rows": 3
+}, {
+    "icon": "system/profiles", 
+    "name": "All Profiles", 
+    "submenu": "Profiles.menu"
+}, {
+    "name": "Options", 
+    "separator": true
+}, {
+    "action": "shell(\"scc-osd-launcher\")", 
+    "icon": "system/cog", 
+    "id": "item_i6", 
+    "name": "Run Program..."
+}, {
+    "action": "dialog('Really? Non-saved progress or data will be lost', name('Back', None), name('Kill', shell('kill -9 $(xdotool getwindowfocus getwindowpid)')))", 
+    "icon": "weapons/pistol-gun", 
+    "id": "item_i5", 
+    "name": "Kill Current Window"
+}, {
+    "action": "shell('scc-osd-show-bindings')", 
+    "icon": "system/binding-display", 
+    "id": "item_i7", 
+    "name": "Display Current Bindings..."
+}, {
+    "icon": "system/controller", 
+    "name": "Games", 
+    "submenu": ".games.menu"
+}, {
+    "icon": "system/windowlist", 
+    "name": "Switch To", 
+    "submenu": ".windowlist.menu"
+}, {
+    "icon": "system/autoswitch", 
+    "name": "Autoswitch Options", 
+    "submenu": ".autoswitch.menu"
+}, {
+    "action": "osd(turnoff())", 
+    "icon": "system/turn-off", 
+    "id": "item4", 
+    "name": "Turn Controller OFF"
+}, {
+    "action": "keyboard()", 
+    "icon": "system/keyboard", 
+    "id": "item5", 
+    "name": "Display Keyboard"
+}, {
+    "action": "shell('sc-controller --osd')", 
+    "icon": "system/edit", 
+    "id": "item_i9", 
+    "name": "Edit Bindings"
+}]
