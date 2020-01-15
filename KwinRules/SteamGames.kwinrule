@@ -1,0 +1,15 @@
+[steam games]
+Description=steam games
+blockcompositing=true
+blockcompositingrule=2
+clientmachine=localhost
+clientmachinematch=0
+ignoregeometry=true
+ignoregeometryrule=3
+screen=1
+screenrule=3
+title=The Legend of Heroes: Trails in the Sky (DX9)
+titlematch=0
+wmclass=steam_app
+wmclasscomplete=false
+wmclassmatch=2

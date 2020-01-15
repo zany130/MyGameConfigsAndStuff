@@ -1,0 +1,15 @@
+[Settings for conky conky]
+Description=Settings for conky conky
+clientmachine=localhost
+clientmachinematch=0
+maximizehoriz=true
+maximizehorizrule=2
+maximizevert=true
+maximizevertrule=2
+screen=0
+screenrule=2
+title=system_conky
+titlematch=0
+wmclass=conky conky
+wmclasscomplete=true
+wmclassmatch=1

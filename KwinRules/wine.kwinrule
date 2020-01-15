@@ -1,0 +1,11 @@
+[wine]
+Description=wine
+blockcompositing=true
+blockcompositingrule=2
+ignoregeometry=true
+ignoregeometryrule=3
+screen=0
+screenrule=3
+wmclass=wine
+wmclasscomplete=false
+wmclassmatch=2

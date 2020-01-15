@@ -1,0 +1,8 @@
+[non games]
+Description=non games
+screen=0
+screenrule=3
+types=1
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0

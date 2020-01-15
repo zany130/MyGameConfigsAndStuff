@@ -1,0 +1,15 @@
+[RetroArch]
+Description=RetroArch
+ignoregeometry=true
+ignoregeometryrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+placement=Maximizing
+placementrule=2
+screen=1
+screenrule=3
+wmclass=retroarch
+wmclasscomplete=false
+wmclassmatch=1

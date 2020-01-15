@@ -1,0 +1,14 @@
+[Window settings for spotify]
+Description=Window settings for spotify
+clientmachine=localhost
+clientmachinematch=0
+ignoregeometry=true
+ignoregeometryrule=3
+screen=0
+screenrule=3
+title=Spotify
+titlematch=1
+types=1
+wmclass=spotify
+wmclasscomplete=false
+wmclassmatch=1

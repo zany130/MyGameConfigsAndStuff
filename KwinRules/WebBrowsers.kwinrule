@@ -1,0 +1,17 @@
+[Browsers]
+Description=Browsers
+clientmachine=localhost
+clientmachinematch=0
+ignoregeometry=true
+ignoregeometryrule=3
+placement=Maximizing
+placementrule=2
+screen=0
+screenrule=3
+title=Multi-monitor setup for games - Newbie Corner - Manjaro Linux Forum - Vivaldi
+titlematch=0
+windowrole=browser
+windowrolematch=1
+wmclass=vivaldi-stable
+wmclasscomplete=false
+wmclassmatch=0

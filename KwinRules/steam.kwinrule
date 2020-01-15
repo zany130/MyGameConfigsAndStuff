@@ -1,0 +1,19 @@
+[Settings for steam big picture]
+Description=Settings for steam big picture
+clientmachine=localhost
+clientmachinematch=0
+ignoregeometry=true
+ignoregeometryrule=3
+maximizehoriz=true
+maximizehorizrule=2
+maximizevert=true
+maximizevertrule=2
+placement=Maximizing
+placementrule=2
+screen=1
+screenrule=3
+title=Steam
+titlematch=0
+wmclass=steam steam
+wmclasscomplete=true
+wmclassmatch=1
