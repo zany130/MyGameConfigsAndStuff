@@ -9,17 +9,17 @@
 	{
 		CounterTextSmall
 		{
-			font-size="12"
+			font-size="22"
 		}
 		
 		CounterTextMedium
 		{
-			font-size="14"
+			font-size="24"
 		}
 		
 		CounterTextLarge
 		{
-			font-size="16"
+			font-size="26"
 		}
 		
 		HighContrast
