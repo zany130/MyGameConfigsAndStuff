@@ -1,2 +1,2 @@
 #!/bin/sh
-xrasengan --primary DP-0
+xrasengan --primary DP-4
