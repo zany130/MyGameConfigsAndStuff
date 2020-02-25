@@ -1,2 +1,2 @@
 #!/bin/sh
-kquitapp5 plasmashell && kstart plasmashell
+kquitapp5 plasmashell && kstart5 plasmashell
